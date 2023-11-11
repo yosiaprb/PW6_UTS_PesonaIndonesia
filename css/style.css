@@ -1,0 +1,99 @@
+body {   
+    background-color: aliceblue;
+    color: #213555;
+}
+
+#home {
+    background-image: url(../img/background.webp);
+}
+
+#home .container {
+    padding-top: 12rem; 
+    padding-bottom: 10rem;
+}
+
+#budaya {
+    padding-top: 3rem;
+}
+
+#budaya h4 {
+    text-align: center;
+}
+
+#budaya .butt {
+    text-align: center;
+    padding-bottom: 1.5rem;
+}
+
+#gallery h2 {
+    text-align: center; 
+    padding-top: 3rem;
+}
+
+#destinasi h2 {
+    text-align: center; 
+    padding-top: 5rem;
+}
+
+#destinasi p {
+    text-align: center;
+    font-size: 12px;
+}
+
+.navbar {
+    background-color: #213555c7;
+}
+
+.btn-outline-primary {
+    --bs-btn-font-size: 16px;
+    --bs-btn-bg: #213555;
+    --bs-btn-hover-bg: aliceblue;
+    --bs-btn-border-color: #213555;
+    --bs-btn-color: aliceblue;
+    --bs-btn-hover-color: #213555;
+    --bs-btn-hover-border-color: #213555;
+    --bs-btn-active-color: aliceblue;
+    --bs-btn-active-bg: #213555;
+    --bs-btn-active-border-color: #213555;
+    --bs-btn-padding-x: 3rem;
+}
+
+.btn-outline-light {
+    --bs-btn-padding-x: 3rem;
+}
+
+footer {
+    background-color:#213555;
+    text-align: center;
+    padding: 1rem 0 2rem;
+    margin-top: 3rem;
+}
+
+footer .socials {
+    padding: 1rem 0;
+}
+
+footer .socials a {
+   color: aliceblue;
+   margin: 1rem;
+}
+
+footer .socials a:hover,
+footer .links a:hover {
+   color: lightblue; 
+}
+
+footer .links {
+    margin-bottom: 1.2rem;
+}
+
+footer .links a {
+    color: aliceblue;
+    padding: 0.7rem 1rem;
+    text-decoration: none;
+}
+
+footer .credit {
+    font-size: 0.8rem;
+    color: aliceblue;
+}
